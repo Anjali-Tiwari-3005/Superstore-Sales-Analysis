@@ -41,3 +41,4 @@ This dashboard empowers decision-makers by:
 * Sales show noticeable peaks around October to December.
 * A small group of customers (top 5) contributes significantly to revenue.
 ## 8. Snapshot of the Dashboard: 
+https://github.com/Anjali-Tiwari-3005/Superstore-Sales-Analysis/blob/main/Snapshot%20of%20the%20Superstore%20Dashboard.png
